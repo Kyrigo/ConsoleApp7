@@ -1,0 +1,15 @@
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.exe
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.deps.json
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.runtimeconfig.json
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.dll
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\bin\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.dll
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\refint\ConsoleApp7.dll
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.pdb
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\a.kovalev\RiderProjects\ConsoleApp7\obj\Debug\net6.0\ref\ConsoleApp7.dll
